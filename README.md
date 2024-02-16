@@ -2,7 +2,7 @@
 This project is my final project for MEGN200 (Programming and Hardware Interface). It is a Big Mouth Billy Bass toy that has been modified to accept a 3.5mm audio input. This input is interpereted by a Raspberry Pi Pico to make the fish move based on the audio. 
 
 ## Operation
-The red button on the Billy Bass is used as a mode selector that tells the fish if it should be in music mode or speech mode. The fish will respond differently to audio depending on which mode it is in. The differences are subtle, but in the future I would like to implement more features for each mode. The potentiometer is used to fine tune the sensitivity to audio levels. Here is a short [video of the fish.](https://youtu.be/kpMdyP3FdSU)
+The red button on the Billy Bass is used as a mode selector that tells the fish if it should be in music mode or speech mode. The fish will respond differently to audio depending on which mode it is in. The differences are subtle, but in the future I would like to implement more features for each mode. The potentiometer is used to fine tune the sensitivity to audio levels.
 
 ## Components
 - Big Mouth Billy Bass
